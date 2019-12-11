@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "William Fincham"
+title                    : "Dr. William Fincham"
 title_separator          : "-"
 name                     : &name "William Fincham"
 description              : &description "Ecologist with a passion for invasion ecology, spatial data and visulisation."
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "William Fincham"
-  avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Dr. William Fincham"
+  avatar           : "profile.png"
+  bio              : "Ecologist with a love for invasive species and all things spatial."
   location         : "Wallingford, UK"
   employer         : "UK Centre for Ecology & Hydrology"
   pubmed           :
