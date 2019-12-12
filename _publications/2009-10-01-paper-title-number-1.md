@@ -8,8 +8,6 @@ venue: 'Biological Invasions'
 paperurl: 'https://link.springer.com/content/pdf/10.1007%2Fs10530-019-02067-w.pdf'
 citation: 'Fincham, W.N.W., Dunn, A.M., Brown, L.E. et al. Biol Invasions (2019) 21: 3545. https://doi.org/10.1007/s10530-019-02067-w'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Fincham, W.N.W., Dunn, A.M., Brown, L.E. et al. Biol Invasions (2019) 21: 3545. https://doi.org/10.1007/s10530-019-02067-w
