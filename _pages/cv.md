@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD Invasion Ecology, University of Leeds and the Centre for Ecology & Hydrology, 2018
+* MSc. Ecology, Evolution and Conservation, Imperial College London, 2013
+* BSc. (Hons) Biological Sciences, University of Reading
+
 
 Work experience
 ======
