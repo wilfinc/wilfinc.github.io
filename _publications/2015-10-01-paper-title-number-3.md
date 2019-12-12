@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Water Quality Is a Poor Predictor of Recreational Hotspots in England"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166950
+excerpt: 'Maintaining and improving water quality is key to the protection and restoration of aquatic ecosystems, which provide important benefits to society. In Europe, the Water Framework Directive (WFD) defines water quality based on a set of biological, hydro-morphological and chemical targets, and aims to reach good quality conditions in all river bodies by the year 2027. While recently it has been argued that achieving these goals will deliver and enhance ecosystem services, in particular recreational services, there is little empirical evidence demonstrating so. Here we test the hypothesis that good water quality is associated with increased utilization of recreational services, combining four surveys covering walking, boating, fishing and swimming visits, together with water quality data for all water bodies in eight River Basin Districts (RBDs) in England. We compared the percentage of visits in areas of good water quality to a set of null models accounting for population density, income, age distribution, travel distance, public access, and substitutability. We expect such association to be positive, at least for fishing (which relies on fish stocks) and swimming (with direct contact to water). We also test if these services have stronger association with water quality relative to boating and walking alongside rivers, canals or lakeshores. In only two of eight RBDs (Northumbria and Anglian) were both criteria met (positive association, strongest for fishing and swimming) when comparing to at least one of the null models. This conclusion is robust to variations in dataset size. Our study suggests that achieving the WFD water quality goals may not enhance recreational ecosystem services, and calls for further empirical research on the connection between water quality and ecosystem services.'
+date: 2016-11-22
+venue: 'PLoS ONE'
+paperurl: 'https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0166950&type=printable'
+citation: 'Ziv G, Mullin K, Boeuf B, Fincham W, Taylor N, Villalobos-Jiménez G, et al. (2016) Water Quality Is a Poor Predictor of Recreational Hotspots in England. PLoS ONE 11(11): e0166950. https://doi.org/10.1371/journal.pone.0166950'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
